@@ -1,0 +1,17 @@
+# Backend
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+python-dotenv==1.0.1
+
+# PDF & OCR
+PyMuPDF==1.24.10
+easyocr==1.7.1
+
+# Embeddings & Vector Store
+sentence-transformers==3.1.0
+faiss-cpu==1.8.0
+Pillow==10.4.0
+
+# LLM
+google-genai==1.14.0

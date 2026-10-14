@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/papers/
+data/indices/
+.venv/
+node_modules/
